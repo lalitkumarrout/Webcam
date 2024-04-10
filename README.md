@@ -14,7 +14,7 @@ This project is a webcam application designed to provide users with the ability 
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/webcam.git
+git clone https://github.com/lalitkumarrout/Webcam
 Navigate to the project directory:
 bash
 Copy code
