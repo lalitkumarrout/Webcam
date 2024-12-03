@@ -2,6 +2,8 @@
  # Overview
 This project is a webcam application designed to provide users with the ability to capture photos and record videos using their webcam. Additionally, it offers a variety of filters to enhance creativity and fun during capture. All media files, including photos and videos, are stored efficiently in a database using IndexDB, ensuring seamless access and management.
 
+![Screenshot (6)](https://github.com/user-attachments/assets/439bf963-6d57-496e-8c84-c6cc651ac447)
+
 # Features
 * Capture photos with webcam.
 * Record videos directly from the webcam.
